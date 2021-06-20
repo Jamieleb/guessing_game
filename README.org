@@ -1,0 +1,4 @@
+#+TITLE: Readme
+
+* Guessing Game
+Guessing Game application from 'The Rust Programming Language'
